@@ -1,0 +1,645 @@
+{
+  "resumen_estadistico": {
+    "total_clientes": 200,
+    "total_empleados": 50,
+    "total_facturas": 200,
+    "total_detalles": 500,
+    "ventas_totales": 109279.55,
+    "venta_promedio": 546.39775,
+    "venta_maxima": 999.27,
+    "venta_minima": 55.57,
+    "periodo_inicio": "2020-01-01",
+    "periodo_fin": "2025-09-09",
+    "sucursales_activas": 5,
+    "productos_vendidos": 100,
+    "fecha_exportacion": "2025-10-29 20:42:14"
+  },
+  "top_10_clientes": [
+    {
+      "id_cliente": 195,
+      "total_comprado": 2935.32,
+      "nombre_completo": "Mark Lane",
+      "email": "parrishjacqueline@example.com",
+      "id_localidad": 4
+    },
+    {
+      "id_cliente": 162,
+      "total_comprado": 2756.99,
+      "nombre_completo": "Dennis Wilson",
+      "email": "megan77@example.net",
+      "id_localidad": 5
+    },
+    {
+      "id_cliente": 197,
+      "total_comprado": 2675.3,
+      "nombre_completo": "Sierra Bowman",
+      "email": "masonpaul@example.net",
+      "id_localidad": 2
+    },
+    {
+      "id_cliente": 30,
+      "total_comprado": 2469.43,
+      "nombre_completo": "Sherry Morse",
+      "email": "lmiddleton@example.org",
+      "id_localidad": 4
+    },
+    {
+      "id_cliente": 41,
+      "total_comprado": 1829.93,
+      "nombre_completo": "Alexandra Nguyen",
+      "email": "lgeorge@example.net",
+      "id_localidad": 4
+    },
+    {
+      "id_cliente": 178,
+      "total_comprado": 1805.35,
+      "nombre_completo": "Ann Barber",
+      "email": "hsharp@example.net",
+      "id_localidad": 1
+    },
+    {
+      "id_cliente": 121,
+      "total_comprado": 1749.81,
+      "nombre_completo": "Valerie Garza",
+      "email": "lori02@example.net",
+      "id_localidad": 3
+    },
+    {
+      "id_cliente": 89,
+      "total_comprado": 1748.79,
+      "nombre_completo": "Diane Murphy",
+      "email": "stephanie29@example.net",
+      "id_localidad": 1
+    },
+    {
+      "id_cliente": 87,
+      "total_comprado": 1690.47,
+      "nombre_completo": "Michael Perry",
+      "email": "gregory19@example.net",
+      "id_localidad": 1
+    },
+    {
+      "id_cliente": 66,
+      "total_comprado": 1624.88,
+      "nombre_completo": "Megan Guzman",
+      "email": "vknight@example.org",
+      "id_localidad": 3
+    }
+  ],
+  "top_10_productos_cantidad": [
+    {
+      "id_producto": 75,
+      "cantidad_vendida": 74
+    },
+    {
+      "id_producto": 97,
+      "cantidad_vendida": 59
+    },
+    {
+      "id_producto": 16,
+      "cantidad_vendida": 59
+    },
+    {
+      "id_producto": 32,
+      "cantidad_vendida": 57
+    },
+    {
+      "id_producto": 47,
+      "cantidad_vendida": 53
+    },
+    {
+      "id_producto": 84,
+      "cantidad_vendida": 51
+    },
+    {
+      "id_producto": 95,
+      "cantidad_vendida": 50
+    },
+    {
+      "id_producto": 79,
+      "cantidad_vendida": 50
+    },
+    {
+      "id_producto": 50,
+      "cantidad_vendida": 49
+    },
+    {
+      "id_producto": 30,
+      "cantidad_vendida": 48
+    }
+  ],
+  "top_10_productos_facturacion": [
+    {
+      "id_producto": 75,
+      "facturacion": 295239.28
+    },
+    {
+      "id_producto": 16,
+      "facturacion": 212622.43
+    },
+    {
+      "id_producto": 2,
+      "facturacion": 206310.15
+    },
+    {
+      "id_producto": 79,
+      "facturacion": 195418.0
+    },
+    {
+      "id_producto": 12,
+      "facturacion": 192870.8
+    },
+    {
+      "id_producto": 95,
+      "facturacion": 179357.5
+    },
+    {
+      "id_producto": 30,
+      "facturacion": 175460.63999999998
+    },
+    {
+      "id_producto": 52,
+      "facturacion": 168885.85000000003
+    },
+    {
+      "id_producto": 97,
+      "facturacion": 157413.18
+    },
+    {
+      "id_producto": 88,
+      "facturacion": 157091.0
+    }
+  ],
+  "ventas_mensuales": [
+    {
+      "mes": "2020-01",
+      "ventas_totales": 888.6700000000001,
+      "cantidad_facturas": 2,
+      "promedio_ventas": 444.34
+    },
+    {
+      "mes": "2020-02",
+      "ventas_totales": 1901.93,
+      "cantidad_facturas": 2,
+      "promedio_ventas": 950.96
+    },
+    {
+      "mes": "2020-03",
+      "ventas_totales": 969.23,
+      "cantidad_facturas": 4,
+      "promedio_ventas": 242.31
+    },
+    {
+      "mes": "2020-04",
+      "ventas_totales": 2675.69,
+      "cantidad_facturas": 4,
+      "promedio_ventas": 668.92
+    },
+    {
+      "mes": "2020-05",
+      "ventas_totales": 1189.86,
+      "cantidad_facturas": 2,
+      "promedio_ventas": 594.93
+    },
+    {
+      "mes": "2020-06",
+      "ventas_totales": 1808.14,
+      "cantidad_facturas": 2,
+      "promedio_ventas": 904.07
+    },
+    {
+      "mes": "2020-07",
+      "ventas_totales": 1822.92,
+      "cantidad_facturas": 3,
+      "promedio_ventas": 607.64
+    },
+    {
+      "mes": "2020-08",
+      "ventas_totales": 1474.94,
+      "cantidad_facturas": 2,
+      "promedio_ventas": 737.47
+    },
+    {
+      "mes": "2020-10",
+      "ventas_totales": 2028.61,
+      "cantidad_facturas": 5,
+      "promedio_ventas": 405.72
+    },
+    {
+      "mes": "2020-11",
+      "ventas_totales": 69.64,
+      "cantidad_facturas": 1,
+      "promedio_ventas": 69.64
+    },
+    {
+      "mes": "2020-12",
+      "ventas_totales": 3696.86,
+      "cantidad_facturas": 5,
+      "promedio_ventas": 739.37
+    },
+    {
+      "mes": "2021-01",
+      "ventas_totales": 3176.32,
+      "cantidad_facturas": 5,
+      "promedio_ventas": 635.26
+    },
+    {
+      "mes": "2021-02",
+      "ventas_totales": 1095.81,
+      "cantidad_facturas": 2,
+      "promedio_ventas": 547.9
+    },
+    {
+      "mes": "2021-04",
+      "ventas_totales": 1380.71,
+      "cantidad_facturas": 3,
+      "promedio_ventas": 460.24
+    },
+    {
+      "mes": "2021-05",
+      "ventas_totales": 993.34,
+      "cantidad_facturas": 1,
+      "promedio_ventas": 993.34
+    },
+    {
+      "mes": "2021-06",
+      "ventas_totales": 1393.81,
+      "cantidad_facturas": 2,
+      "promedio_ventas": 696.9
+    },
+    {
+      "mes": "2021-07",
+      "ventas_totales": 1161.28,
+      "cantidad_facturas": 3,
+      "promedio_ventas": 387.09
+    },
+    {
+      "mes": "2021-08",
+      "ventas_totales": 695.32,
+      "cantidad_facturas": 3,
+      "promedio_ventas": 231.77
+    },
+    {
+      "mes": "2021-09",
+      "ventas_totales": 1324.73,
+      "cantidad_facturas": 4,
+      "promedio_ventas": 331.18
+    },
+    {
+      "mes": "2021-10",
+      "ventas_totales": 2913.83,
+      "cantidad_facturas": 4,
+      "promedio_ventas": 728.46
+    },
+    {
+      "mes": "2021-11",
+      "ventas_totales": 1520.73,
+      "cantidad_facturas": 3,
+      "promedio_ventas": 506.91
+    },
+    {
+      "mes": "2021-12",
+      "ventas_totales": 2525.71,
+      "cantidad_facturas": 4,
+      "promedio_ventas": 631.43
+    },
+    {
+      "mes": "2022-01",
+      "ventas_totales": 1338.55,
+      "cantidad_facturas": 3,
+      "promedio_ventas": 446.18
+    },
+    {
+      "mes": "2022-02",
+      "ventas_totales": 745.96,
+      "cantidad_facturas": 2,
+      "promedio_ventas": 372.98
+    },
+    {
+      "mes": "2022-03",
+      "ventas_totales": 778.5100000000001,
+      "cantidad_facturas": 4,
+      "promedio_ventas": 194.63
+    },
+    {
+      "mes": "2022-04",
+      "ventas_totales": 1971.45,
+      "cantidad_facturas": 3,
+      "promedio_ventas": 657.15
+    },
+    {
+      "mes": "2022-05",
+      "ventas_totales": 55.57,
+      "cantidad_facturas": 1,
+      "promedio_ventas": 55.57
+    },
+    {
+      "mes": "2022-06",
+      "ventas_totales": 1977.24,
+      "cantidad_facturas": 3,
+      "promedio_ventas": 659.08
+    },
+    {
+      "mes": "2022-07",
+      "ventas_totales": 4729.6900000000005,
+      "cantidad_facturas": 6,
+      "promedio_ventas": 788.28
+    },
+    {
+      "mes": "2022-09",
+      "ventas_totales": 2772.49,
+      "cantidad_facturas": 5,
+      "promedio_ventas": 554.5
+    },
+    {
+      "mes": "2022-10",
+      "ventas_totales": 1148.73,
+      "cantidad_facturas": 3,
+      "promedio_ventas": 382.91
+    },
+    {
+      "mes": "2022-11",
+      "ventas_totales": 2029.74,
+      "cantidad_facturas": 3,
+      "promedio_ventas": 676.58
+    },
+    {
+      "mes": "2022-12",
+      "ventas_totales": 3824.97,
+      "cantidad_facturas": 7,
+      "promedio_ventas": 546.42
+    },
+    {
+      "mes": "2023-01",
+      "ventas_totales": 624.66,
+      "cantidad_facturas": 2,
+      "promedio_ventas": 312.33
+    },
+    {
+      "mes": "2023-02",
+      "ventas_totales": 739.1899999999999,
+      "cantidad_facturas": 2,
+      "promedio_ventas": 369.6
+    },
+    {
+      "mes": "2023-03",
+      "ventas_totales": 963.63,
+      "cantidad_facturas": 2,
+      "promedio_ventas": 481.82
+    },
+    {
+      "mes": "2023-04",
+      "ventas_totales": 2308.22,
+      "cantidad_facturas": 4,
+      "promedio_ventas": 577.05
+    },
+    {
+      "mes": "2023-05",
+      "ventas_totales": 1491.5,
+      "cantidad_facturas": 2,
+      "promedio_ventas": 745.75
+    },
+    {
+      "mes": "2023-06",
+      "ventas_totales": 972.69,
+      "cantidad_facturas": 1,
+      "promedio_ventas": 972.69
+    },
+    {
+      "mes": "2023-07",
+      "ventas_totales": 2627.49,
+      "cantidad_facturas": 5,
+      "promedio_ventas": 525.5
+    },
+    {
+      "mes": "2023-08",
+      "ventas_totales": 2779.81,
+      "cantidad_facturas": 3,
+      "promedio_ventas": 926.6
+    },
+    {
+      "mes": "2023-09",
+      "ventas_totales": 659.1899999999999,
+      "cantidad_facturas": 2,
+      "promedio_ventas": 329.6
+    },
+    {
+      "mes": "2023-10",
+      "ventas_totales": 3098.3700000000003,
+      "cantidad_facturas": 5,
+      "promedio_ventas": 619.67
+    },
+    {
+      "mes": "2023-11",
+      "ventas_totales": 1950.88,
+      "cantidad_facturas": 3,
+      "promedio_ventas": 650.29
+    },
+    {
+      "mes": "2023-12",
+      "ventas_totales": 3247.75,
+      "cantidad_facturas": 6,
+      "promedio_ventas": 541.29
+    },
+    {
+      "mes": "2024-01",
+      "ventas_totales": 4176.67,
+      "cantidad_facturas": 7,
+      "promedio_ventas": 596.67
+    },
+    {
+      "mes": "2024-02",
+      "ventas_totales": 1355.69,
+      "cantidad_facturas": 2,
+      "promedio_ventas": 677.84
+    },
+    {
+      "mes": "2024-03",
+      "ventas_totales": 1071.71,
+      "cantidad_facturas": 3,
+      "promedio_ventas": 357.24
+    },
+    {
+      "mes": "2024-04",
+      "ventas_totales": 507.77,
+      "cantidad_facturas": 2,
+      "promedio_ventas": 253.88
+    },
+    {
+      "mes": "2024-05",
+      "ventas_totales": 2729.34,
+      "cantidad_facturas": 7,
+      "promedio_ventas": 389.91
+    },
+    {
+      "mes": "2024-06",
+      "ventas_totales": 1131.93,
+      "cantidad_facturas": 2,
+      "promedio_ventas": 565.96
+    },
+    {
+      "mes": "2024-07",
+      "ventas_totales": 982.29,
+      "cantidad_facturas": 1,
+      "promedio_ventas": 982.29
+    },
+    {
+      "mes": "2024-08",
+      "ventas_totales": 1932.48,
+      "cantidad_facturas": 3,
+      "promedio_ventas": 644.16
+    },
+    {
+      "mes": "2024-09",
+      "ventas_totales": 555.16,
+      "cantidad_facturas": 1,
+      "promedio_ventas": 555.16
+    },
+    {
+      "mes": "2024-10",
+      "ventas_totales": 1432.9499999999998,
+      "cantidad_facturas": 3,
+      "promedio_ventas": 477.65
+    },
+    {
+      "mes": "2024-11",
+      "ventas_totales": 1895.77,
+      "cantidad_facturas": 4,
+      "promedio_ventas": 473.94
+    },
+    {
+      "mes": "2024-12",
+      "ventas_totales": 1016.42,
+      "cantidad_facturas": 3,
+      "promedio_ventas": 338.81
+    },
+    {
+      "mes": "2025-01",
+      "ventas_totales": 1019.26,
+      "cantidad_facturas": 2,
+      "promedio_ventas": 509.63
+    },
+    {
+      "mes": "2025-03",
+      "ventas_totales": 1263.42,
+      "cantidad_facturas": 2,
+      "promedio_ventas": 631.71
+    },
+    {
+      "mes": "2025-04",
+      "ventas_totales": 1140.1,
+      "cantidad_facturas": 2,
+      "promedio_ventas": 570.05
+    },
+    {
+      "mes": "2025-05",
+      "ventas_totales": 2525.58,
+      "cantidad_facturas": 4,
+      "promedio_ventas": 631.4
+    },
+    {
+      "mes": "2025-06",
+      "ventas_totales": 1276.64,
+      "cantidad_facturas": 2,
+      "promedio_ventas": 638.32
+    },
+    {
+      "mes": "2025-07",
+      "ventas_totales": 2393.19,
+      "cantidad_facturas": 4,
+      "promedio_ventas": 598.3
+    },
+    {
+      "mes": "2025-08",
+      "ventas_totales": 1164.22,
+      "cantidad_facturas": 2,
+      "promedio_ventas": 582.11
+    },
+    {
+      "mes": "2025-09",
+      "ventas_totales": 164.6,
+      "cantidad_facturas": 1,
+      "promedio_ventas": 164.6
+    }
+  ],
+  "ventas_por_sucursal": [
+    {
+      "id_sucursal": 1,
+      "ventas_totales": 21529.58,
+      "cantidad_facturas": 38,
+      "promedio_ventas": 566.57
+    },
+    {
+      "id_sucursal": 2,
+      "ventas_totales": 20430.04,
+      "cantidad_facturas": 43,
+      "promedio_ventas": 475.12
+    },
+    {
+      "id_sucursal": 3,
+      "ventas_totales": 23572.78,
+      "cantidad_facturas": 42,
+      "promedio_ventas": 561.26
+    },
+    {
+      "id_sucursal": 4,
+      "ventas_totales": 21575.07,
+      "cantidad_facturas": 36,
+      "promedio_ventas": 599.31
+    },
+    {
+      "id_sucursal": 5,
+      "ventas_totales": 22172.08,
+      "cantidad_facturas": 41,
+      "promedio_ventas": 540.78
+    }
+  ],
+  "clientes_por_localidad": [
+    {
+      "id_localidad": 5,
+      "cantidad_clientes": 49
+    },
+    {
+      "id_localidad": 1,
+      "cantidad_clientes": 43
+    },
+    {
+      "id_localidad": 3,
+      "cantidad_clientes": 42
+    },
+    {
+      "id_localidad": 2,
+      "cantidad_clientes": 34
+    },
+    {
+      "id_localidad": 4,
+      "cantidad_clientes": 32
+    }
+  ],
+  "empleados_por_cargo": [
+    {
+      "labor": "Analista",
+      "cantidad_empleados": 12
+    },
+    {
+      "labor": "Soporte",
+      "cantidad_empleados": 9
+    },
+    {
+      "labor": "Diseñador",
+      "cantidad_empleados": 8
+    },
+    {
+      "labor": "Programador",
+      "cantidad_empleados": 8
+    },
+    {
+      "labor": "Tester",
+      "cantidad_empleados": 7
+    },
+    {
+      "labor": "Gerente",
+      "cantidad_empleados": 6
+    }
+  ]
+}
