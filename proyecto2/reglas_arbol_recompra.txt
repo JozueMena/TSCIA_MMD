@@ -1,0 +1,13 @@
+REGLAS DEL ÁRBOL DE DECISIÓN - PREDICCIÓN DE RECOMPRA
+==================================================
+
+|--- Monto Promoción ($) <= 350.00
+|   |--- class: 0
+|--- Monto Promoción ($) >  350.00
+|   |--- Edad <= 67.50
+|   |   |--- Monto Promoción ($) <= 650.00
+|   |   |   |--- class: 1
+|   |   |--- Monto Promoción ($) >  650.00
+|   |   |   |--- class: 0
+|   |--- Edad >  67.50
+|   |   |--- class: 0

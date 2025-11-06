@@ -1,0 +1,10 @@
+id_cliente,nombre,apellido,email,telefono,id_localidad,domicilio,nombre_completo
+2,mar,cruz,sas,121,1,Calle Falsa 456,mar cruz
+3,carlos,menen,adadad,1111,3,San Martín 789,carlos menen
+4,Lucía,Fernández,lucia.fernandez@gmail.com,11-4444-4444,3,Belgrano 1500,Lucía Fernández
+5,Martín,Rodríguez,martin.rodriguez@outlook.com,11-5555-5555,1,Av. Corrientes 345,Martín Rodríguez
+6,Ana,Torres,ana.torres@gmail.com,11-6666-6666,2,Rivadavia 789,Ana Torres
+7,Federico,Gómez,federico.gomez@hotmail.com,11-7777-7777,2,Mitre 234,Federico Gómez
+8,Sofía,Herrera,sofia.herrera@gmail.com,11-8888-8888,4,Dorrego 456,Sofía Herrera
+9,Diego,Martinez,diego.martinez@yahoo.com,11-9999-9999,5,Av. Colón 123,Diego Martinez
+10,Laura,Garcia,laura.garcia@gmail.com,11-1010-1010,6,San Lorenzo 567,Laura Garcia

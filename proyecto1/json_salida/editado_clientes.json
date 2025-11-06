@@ -1,0 +1,92 @@
+[
+    {
+        "id_cliente":1,
+        "nombre":"josefo",
+        "apellido":"martinez",
+        "email":"josefo.martinez@gmail.com",
+        "telefono":"11-1111-1122",
+        "id_localidad":7,
+        "domicilio":"Av. Siempre Muerat 123"
+    },
+    {
+        "id_cliente":2,
+        "nombre":"Maria",
+        "apellido":"Lopez",
+        "email":"maria.lopez@hotmail.com",
+        "telefono":"11-2222-2222",
+        "id_localidad":2,
+        "domicilio":"Calle Falsa 456"
+    },
+    {
+        "id_cliente":3,
+        "nombre":"Carlos",
+        "apellido":"Gomez",
+        "email":"carlos.gomez@yahoo.com",
+        "telefono":"11-3333-3333",
+        "id_localidad":4,
+        "domicilio":"San Martín 789"
+    },
+    {
+        "id_cliente":4,
+        "nombre":"Lucía",
+        "apellido":"Fernández",
+        "email":"lucia.fernandez@gmail.com",
+        "telefono":"11-4444-4444",
+        "id_localidad":3,
+        "domicilio":"Belgrano 1500"
+    },
+    {
+        "id_cliente":5,
+        "nombre":"Martín",
+        "apellido":"Rodríguez",
+        "email":"martin.rodriguez@outlook.com",
+        "telefono":"11-5555-5555",
+        "id_localidad":1,
+        "domicilio":"Av. Corrientes 345"
+    },
+    {
+        "id_cliente":6,
+        "nombre":"Ana",
+        "apellido":"Torres",
+        "email":"ana.torres@gmail.com",
+        "telefono":"11-6666-6666",
+        "id_localidad":2,
+        "domicilio":"Rivadavia 789"
+    },
+    {
+        "id_cliente":7,
+        "nombre":"Federico",
+        "apellido":"Gómez",
+        "email":"federico.gomez@hotmail.com",
+        "telefono":"11-7777-7777",
+        "id_localidad":2,
+        "domicilio":"Mitre 234"
+    },
+    {
+        "id_cliente":8,
+        "nombre":"Sofía",
+        "apellido":"Herrera",
+        "email":"sofia.herrera@gmail.com",
+        "telefono":"11-8888-8888",
+        "id_localidad":4,
+        "domicilio":"Dorrego 456"
+    },
+    {
+        "id_cliente":9,
+        "nombre":"Diego",
+        "apellido":"Martinez",
+        "email":"diego.martinez@yahoo.com",
+        "telefono":"11-9999-9999",
+        "id_localidad":5,
+        "domicilio":"Av. Colón 123"
+    },
+    {
+        "id_cliente":10,
+        "nombre":"Laura",
+        "apellido":"Garcia",
+        "email":"laura.garcia@gmail.com",
+        "telefono":"11-1010-1010",
+        "id_localidad":6,
+        "domicilio":"San Lorenzo 567"
+    }
+]
